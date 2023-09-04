@@ -1,0 +1,36 @@
+.center{
+    
+        width:30%;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        
+        border-style: solid;
+  border-color:black;
+  
+        
+      
+      
+    
+}
+img{
+    width: fit-content;
+}
+.erk{
+    text-align: center;
+    font-weight: bolder;
+}
+.jordi{
+    text-align: center;
+    font-weight: bolder;
+}
+.tye{
+    text-align: center;
+    font-weight: bolder;
+}
+hr{
+    margin: auto 220px;
+}
+.twerl{
+    background-color: salmon;
+}
